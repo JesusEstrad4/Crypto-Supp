@@ -1,6 +1,6 @@
 # Crypto-Supp
 
-![Image Logo Crypto-Supp](https://github.com/JesusEstrad4/Crypto-Supp/blob/main/Images/Baner.png)
+![Image Logo Crypto-Supp]([https://github.com/JesusEstrad4/Crypto-Supp/blob/main/Images/Baner.png](https://github.com/JesusEstrad4/Crypto-Supp/blob/main/Images/Baner.jpg))
 
 In this repository you can find the code used for the Crypto supp website.
 
